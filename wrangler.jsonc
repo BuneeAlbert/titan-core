@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "website",
+	"name": "website-bunee",
 	"main": "./dist/_worker.js/index.js",
 	"compatibility_date": "2025-04-19",
 	"compatibility_flags": [
